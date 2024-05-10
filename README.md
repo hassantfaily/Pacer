@@ -8,6 +8,7 @@ Welcome to the Pacer project repository! Pacer is an autonomous rover equipped w
 - **Automated Email System:** Upon detecting smoke or fire, Pacer automatically sends email alerts to designated recipients, facilitating rapid response and mitigation efforts.
   
 navigation on this predefined path:
+
 ![image](https://github.com/hassantfaily/Pacer/assets/132168189/32990902-f0a9-4c5e-8c7d-bcb9ad272389)
 
 ## Getting Started
